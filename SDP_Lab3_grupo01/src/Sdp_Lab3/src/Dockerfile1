@@ -1,0 +1,10 @@
+FROM openjdk:15-slim-buster
+WORKDIR /app
+ADD MathServer.java /app
+ADD Cliente.java /app
+ADD ProgramaCliente.java /app
+ADD data.csv /app
+RUN javac MathServer.java
+RUN javac Cliente.java
+RUN javac ProgramaCliente.java
+CMD ["java","ProgramaCliente"]

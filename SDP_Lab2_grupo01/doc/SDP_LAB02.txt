@@ -1,0 +1,116 @@
+No Principal:
+
+[started]
+[Conexão de nó membro] OmenBS@192.168.125.1 4242:4242
+[Conexão de nó membro] 127.0.0.1@127.0.0.1 4242:4242
+
+Aceita Utilizador
+
+-----------------------------------------------------------------------
+
+No Participante 1:
+
+IP do No Principal: 
+127.0.0.1
+Porta do No Principal: 
+4242
+Ligação Nó Estabelecida
+OPEN
+
+-----------------------------------------------------------------------
+
+No Principal 2:
+
+IP do No Principal: 
+127.0.0.1
+Porta do No Principal: 
+4242
+Ligação Nó Estabelecida
+OPEN
+
+-----------------------------------------------------------------------
+
+Utilizador:
+
+IP do servidor: 
+127.0.0.1
+Porta de ligação: 
+4243
+Ligação Clientes Estabelecida
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza um par chave-valor: 
+UAL UAL
+Item registado com sucesso
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza um par chave-valor: 
+SDP Sistemas Distribuidos e Paralelos
+Item registado com sucesso
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza um par chave-valor: 
+POO Programação Orientada a Objectos
+Item registado com sucesso
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza um par chave-valor: 
+AP Algoritmia e Programação
+Item registado com sucesso
+Introduza um comando: 
+C
+Servidor: recebeu o comando C - Introduza a chave: 
+UAL
+ UAL
+Introduza um comando: 
+C
+Servidor: recebeu o comando C - Introduza a chave: 
+ss
+Chave inexistente
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza um par chave-valor: 
+UAL UAL
+Chave existente
+Introduza um comando: 
+C
+Servidor: recebeu o comando C - Introduza a chave: 
+AED
+Chave inexistente
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza um par chave-valor: 
+AED Algoritmos e Estruturas de Dados
+Item registado com sucesso
+Introduza um comando: 
+C
+Servidor: recebeu o comando C - Introduza a chave: 
+AED
+ Algoritmos e Estruturas de Dados
+Introduza um comando: 
+D
+Servidor: recebeu o comando D - Introduza a chave: 
+UAL
+item removido com sucesso
+Introduza um comando: 
+C
+Servidor: recebeu o comando C - Introduza a chave: 
+UAL
+Chave inexistente
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza um par chave-valor: 
+Universidade Autónoma de Lisboa
+Item registado com sucesso
+Introduza um comando: 
+C
+Servidor: recebeu o comando C - Introduza a chave: 
+UAL
+Chave inexistente
+Introduza um comando: 
+Q
+Terminado
+
+-----------------------------------------------------------------
+
+

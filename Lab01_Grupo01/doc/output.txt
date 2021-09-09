@@ -1,0 +1,68 @@
+Cliente 1
+
+"C:\Program Files\Java\jdk-15\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\lib\idea_rt.jar=51608:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bruno\IdeaProjects\Sdp1\out\production\Sdp1 com.Cliente
+IP do servidor: 
+127.0.0.1
+Porta de ligação: 
+4242
+Introduza um comando: 
+L
+Servidor: recebeu o comando L
+Lista de Tarefas: 
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza a tarefa: 
+Limpar a casa
+Tarefa adicionada com sucesso!
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza a tarefa: 
+Limpar o carro
+Tarefa adicionada com sucesso!
+Introduza um comando: 
+L
+Servidor: recebeu o comando L
+Lista de Tarefas: Limpar a casa Limpar o carro
+Introduza um comando: 
+
+Cliente 2
+
+"C:\Program Files\Java\jdk-15\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\lib\idea_rt.jar=51588:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bruno\IdeaProjects\Sdp1\out\production\Sdp1 com.Cliente
+IP do servidor: 
+127.0.0.1
+Porta de ligação: 
+4242
+Introduza um comando: 
+L
+Servidor: recebeu o comando L
+Lista de Tarefas: Limpar a casa Limpar o carro
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza a tarefa: 
+Passear
+Tarefa adicionada com sucesso!
+Introduza um comando: 
+R
+Servidor: recebeu o comando R - Introduza a tarefa: 
+Correr
+Tarefa adicionada com sucesso!
+Introduza um comando: 
+L
+Servidor: recebeu o comando L
+Lista de Tarefas: Limpar a casa Limpar o carro Passear Correr
+Introduza um comando: 
+Q
+Servidor: recebeu o comando Q
+
+Process finished with exit code 0
+
+Servidor
+
+"C:\Program Files\Java\jdk-15\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\lib\idea_rt.jar=51862:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bruno\IdeaProjects\Sdp1\out\production\Sdp1 com.Servidor
+Servidor espera ligacao cliente
+Cliente Conectado
+Servidor espera ligacao cliente
+Cliente Conectado
+
+Process finished with exit code 0
+
